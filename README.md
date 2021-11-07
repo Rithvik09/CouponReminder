@@ -1,5 +1,5 @@
-# CouponReminder
-This program sends out email to subscribers to remind them on avaialble coupons. 
+# Coupon Reminder
+This project is to create an API for Alexa to notify people on available coupons for specific stores or products.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,18 +17,19 @@ This program sends out email to subscribers to remind them on avaialble coupons.
 
 ## General Information
 
-- This program addresses the need of for people to get notified on available coupons to help save cost from their purchases. 
-- Helps temple send blessings to individuals on their birthdays that makes people feel good. 
-- This faciliates the temple to maintain membership.  
+- This program addresses the problem of people having to search through the web to find available coupons for specific stores or products.
+- Helps people get information through Alexa on available coupons for specific stores or products.
+- I undertook this project to help people get necessary information on available coupons/discounts through Alexa.  
 
 
 ## Technologies Used
 - Java SE, Version 17
+- AWS Lambda
 
 
 ## Features
 List the ready features here:
-- Email note to subscribed users
+- Conceptual stage only
 
 
 ## Screenshots
@@ -39,31 +40,31 @@ List the ready features here:
 ## Setup
 
 - Need to install Eclipse IDE or any other IDE in your PC
-- Need to install Java FX 
+- Need to install Java FX
+- Download the app through Alexa Skills 
 
 
 ## Usage
 
-You need to have the source code to run the program.
+Download the app into Alexa.
 
 
 ## Project Status
-Project is: _complete_
+Project is: _Conceptual_
 
 
 ## Room for Improvement
 
 Room for improvement:
-- Admin screen to add subscribers to the master list.
+- concept stage
 
 Future Development:
-- Input screen to facilitate people to directly subscribe to the service. 
-- Provision for existing users to unsubscribe
+- Concept stage
 
 
 ## Acknowledgements
 
-- I was inspired to undertake this project to help people get blessings from temple on their birthdays that is considered as a good sign by individuals.
+- I was inspired to undertake this project to help people get timely information on available coupons/discounts through Alexa.
 
 
 ## Contact
